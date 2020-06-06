@@ -1,0 +1,30 @@
+{
+  "name": "npm-hello-world-consumer",
+  "version": "1.0.0",
+  "description": "Consuming the @jlam55555-playground/npm-hello-world NPM module",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlam55555-playground/npm-hello-world-consumer.git"
+  },
+  "keywords": [
+    "npm",
+    "hello world consumer",
+    "hello world",
+    "helloworld",
+    "consumer",
+    "jlam55555"
+  ],
+  "author": "Jonathan Lam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlam55555-playground/npm-hello-world-consumer/issues"
+  },
+  "homepage": "https://github.com/jlam55555-playground/npm-hello-world-consumer#readme"
+}
