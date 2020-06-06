@@ -1,9 +1,11 @@
 {
   "name": "npm-hello-world-consumer",
   "version": "1.0.0",
-  "description": "Consuming the @jlam55555-playground/npm-hello-world NPM module",
+  "description": "Consuming the @jlam55555-playground/npm-hello-world GitHub NPM registry package",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "@jlam55555-playground/npm-hello-world": "^1.0.0"
+  },
   "devDependencies": {},
   "scripts": {
     "start": "node index.js",
